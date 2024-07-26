@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "id": "addon-template",
   "version": "${version}",
-  "name": "Addon Template",
+  "name": "Item Frame Dupe Addon",
   "description": "An addon template for Meteor Client addons.",
   "authors": [
-    "seasnail"
+    "Reimound"
   ],
   "contact": {
     "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
@@ -14,7 +14,7 @@
   "environment": "client",
   "entrypoints": {
     "meteor": [
-      "com.example.addon.AddonTemplate"
+      "com.example.addon.ItemFrameDupeAddon"
     ]
   },
   "mixins": [
